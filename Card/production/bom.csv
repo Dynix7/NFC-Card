@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,220n,
+"D1, D2",0805,2,LED,
+"R1, R2",0603,2,220,
+R_0201,0201,1,0201,
+U1,TSSOP-8_3x3mm_P0.65mm,1,NT3H2111W0FTTJ,
