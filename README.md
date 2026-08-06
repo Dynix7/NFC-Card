@@ -15,3 +15,13 @@ I firstly wanted something that I could put my name and to illustrate my skills 
 
 # Schematic Photos
 ![alt text](schematic.png)
+
+# BOM
+|Name                 |Purpose          |Total Cost (USD)|Link                                                                                    |Distributor     |
+|---------------------|-----------------|----------------|----------------------------------------------------------------------------------------|----------------|
+|NT3H2111W0FTTJ       |NFC Chip         |$1.37           |https://www.digikey.com/en/products/detail/nxp-usa-inc/NT3H2111W0FTTJ/5872979           |Digikey         |
+|220ohm Resistor      |Resistor for LEDs|$0.12           |https://www.digikey.com/en/products/detail/yageo/RT0603FRE10220RL/21619987              |Digikey         |
+|Green LEDs           |Indicator for PCB|$0.75           |https://www.digikey.com/en/products/detail/liteon/LTST-S220KGKT/386875                  |Digikey         |
+|220nf Capacitor      |Stabilize Power  |$0.56           |https://www.digikey.com/en/products/detail/murata-electronics/GCM188R71E224KA55D/1765183|Digikey         |
+|JLCPCB Costs         |Main PCB         |$21             |                                                                                        |JLCPCB          |
+|Shipping+Fees+Tarrifs|                 |$11.16          |                                                                                        |Digikey + JLCPCB|
