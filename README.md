@@ -24,4 +24,4 @@ I firstly wanted something that I could put my name and to illustrate my skills 
 |Green LEDs           |Indicator for PCB|$0.75           |https://www.digikey.com/en/products/detail/liteon/LTST-S220KGKT/386875                  |Digikey         |
 |220nf Capacitor      |Stabilize Power  |$0.56           |https://www.digikey.com/en/products/detail/murata-electronics/GCM188R71E224KA55D/1765183|Digikey         |
 |JLCPCB Costs         |Main PCB         |$21             |                                                                                        |JLCPCB          |
-|Shipping+Fees+Tarrifs|                 |$11.16          |                                                                                        |Digikey + JLCPCB|
+|Shipping+Fees+Tarrifs|                 |$15.12          |                                                                                        |Digikey + JLCPCB|
