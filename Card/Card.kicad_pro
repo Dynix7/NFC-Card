@@ -560,6 +560,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "../Card.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
